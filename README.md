@@ -1,6 +1,6 @@
 # Security_Monitoring
 Observe. Analyze. Detect. Defend. — Practical Security Monitoring Labs.
-# Security_Monitoring
+
 
 Observe. Analyze. Detect. Defend. — Practical Security Monitoring Labs. 📌 **About This Repository**
 
