@@ -2,7 +2,7 @@
 Observe. Analyze. Detect. Defend. — Practical Security Monitoring Labs.
 
 
-Observe. Analyze. Detect. Defend. — Practical Security Monitoring Labs. 📌 **About This Repository**
+ 📌 **About This Repository**
 
 This repository documents my hands-on journey into Security Monitoring and Log Analysis.
 
